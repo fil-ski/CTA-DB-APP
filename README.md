@@ -50,8 +50,9 @@ Below are step-by-step instructions for each feature of the application.
 ### **Screenshots**
 Include screenshots of your application in use here.
 
-![Usage of Lookup Lobbyists](path/to/usage_image_1.png)
-![Detailed Information View](path/to/usage_image_2.png)
+![Usage of Lookup Lobbyists](Images/command1.png)
+![Detailed Information View](Images/command2.png)
+![Top N Lobbyists](Images/command3.png)
 
 
 
