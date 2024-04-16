@@ -1,7 +1,17 @@
 # Chicago Lobbyist Database App
 
 ## Overview
-This application facilitates indirect interactions with the Chicago Lobbyists database through a console-based user interface. Users can perform various operations such as looking up lobbyists by name, viewing detailed information about a lobbyist, finding the top N lobbyists by total compensation for a given year, registering an existing lobbyist for a new year, and setting the salutation for a lobbyist.
+**Chicago Lobbyist Database Application**  
+*Project 2, CS 341, Spring 2024, UIC Computer Science Department*  
+
+- Collaborated on a multi-tier application designed to interact with the Chicago Lobbyist Database. This project was developed as part of the coursework for CS 341, under the supervision of Professor Joe Hummel.
+- Designed a user-friendly console-based interface that allows users to query and update lobbyist information effectively without direct SQL command interaction.
+- Integrated SQLite database handling with Python to manage data retrieval and updates through a clean, modular architecture consisting of presentation, object mapping, and data tier layers.
+- Developed functionality for detailed queries such as looking up lobbyists by name using SQL wildcards, fetching detailed lobbyist profiles, and retrieving top lobbyists by compensation for specific years.
+- Implemented robust error handling and input validation to ensure reliability and usability of the application.
+- Conducted thorough testing of each function to ensure accuracy and efficiency of the database queries and updates.
+- Presented the application and its features at the UIC CS Project Showcase in May 2024, demonstrating its utility in managing and analyzing lobbyist data.
+- Explored further enhancements like web integration and API development for broader accessibility and user engagement.
 
 ## Features
 - **Lookup Lobbyists by Name**: Allows users to search for lobbyists using their first or last names, with support for SQL wildcards.
@@ -52,9 +62,6 @@ Below are step-by-step instructions for each feature of the application.
 ### **Set Salutation**
 1. **Enter the command `5` when prompted.**
 2. **Input the lobbyist ID and the new salutation.**
-
-### **Screenshots**
-Include screenshots of your application in use here.
 
 
 
