@@ -4,13 +4,12 @@
 **Chicago Lobbyist Database Application**  
 *Project 2, CS 341, Spring 2024, UIC Computer Science Department*  
 
-- Collaborated on a multi-tier application designed to interact with the Chicago Lobbyist Database. This project was developed as part of the coursework for CS 341, under the supervision of Professor Joe Hummel.
+- Collaborated on a multi-tier application designed to interact with the Chicago Lobbyist Database. This project was developed as part of the coursework for CS 341.
 - Designed a user-friendly console-based interface that allows users to query and update lobbyist information effectively without direct SQL command interaction.
 - Integrated SQLite database handling with Python to manage data retrieval and updates through a clean, modular architecture consisting of presentation, object mapping, and data tier layers.
 - Developed functionality for detailed queries such as looking up lobbyists by name using SQL wildcards, fetching detailed lobbyist profiles, and retrieving top lobbyists by compensation for specific years.
 - Implemented robust error handling and input validation to ensure reliability and usability of the application.
 - Conducted thorough testing of each function to ensure accuracy and efficiency of the database queries and updates.
-- Presented the application and its features at the UIC CS Project Showcase in May 2024, demonstrating its utility in managing and analyzing lobbyist data.
 - Explored further enhancements like web integration and API development for broader accessibility and user engagement.
 
 ## Features
