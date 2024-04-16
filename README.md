@@ -15,8 +15,44 @@ To set up the Chicago Lobbyist Database App, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourrepository/chicago-lobbyist-db-app.git
+   git clone https://github.com/fil-ski/CTA-DB-APP.git
 2. Navigate to the project directory:
     ```bash
-   cd chicago-lobbyist-db-app
-4. 
+   cd CTA-DB-APP
+3. To start the application
+   ```bash
+   python main.py
+
+## How to Use
+Below are step-by-step instructions for each feature of the application.
+
+### **Lookup Lobbyists by Name**
+1. **Enter the command `1` when prompted.**
+2. **Input the name or partial name with wildcards.**
+3. **View the list of matching lobbyists.**
+
+### **Detailed Lobbyist Information**
+1. **Enter the command `2` when prompted.**
+2. **Input the lobbyist ID to fetch their detailed profile.**
+
+### **Top N Lobbyists**
+1. **Enter the command `3` when prompted.**
+2. **Input the number `N` and the year to retrieve the top N lobbyists for that year.**
+
+### **Register a Lobbyist**
+1. **Enter the command `4` when prompted.**
+2. **Provide the lobbyist ID and the new year they should be registered for.**
+
+### **Set Salutation**
+1. **Enter the command `5` when prompted.**
+2. **Input the lobbyist ID and the new salutation.**
+
+### **Screenshots**
+Include screenshots of your application in use here.
+
+![Usage of Lookup Lobbyists](path/to/usage_image_1.png)
+![Detailed Information View](path/to/usage_image_2.png)
+
+
+
+
