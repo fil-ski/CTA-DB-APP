@@ -31,13 +31,19 @@ Below are step-by-step instructions for each feature of the application.
 2. **Input the name or partial name with wildcards.**
 3. **View the list of matching lobbyists.**
 
+![Usage of Lookup Lobbyists](Images/command1.png)
+
 ### **Detailed Lobbyist Information**
 1. **Enter the command `2` when prompted.**
 2. **Input the lobbyist ID to fetch their detailed profile.**
 
+![Detailed Information View](Images/command2.png)
+
 ### **Top N Lobbyists**
 1. **Enter the command `3` when prompted.**
 2. **Input the number `N` and the year to retrieve the top N lobbyists for that year.**
+
+![Top N Lobbyists](Images/command3.png)
 
 ### **Register a Lobbyist**
 1. **Enter the command `4` when prompted.**
@@ -50,9 +56,9 @@ Below are step-by-step instructions for each feature of the application.
 ### **Screenshots**
 Include screenshots of your application in use here.
 
-![Usage of Lookup Lobbyists](Images/command1.png)
-![Detailed Information View](Images/command2.png)
-![Top N Lobbyists](Images/command3.png)
+
+
+
 
 
 
