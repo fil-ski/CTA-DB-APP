@@ -2,7 +2,7 @@
 
 ## Overview
 **Chicago Lobbyist Database Application**  
-*Project 2, CS 341, Spring 2024, UIC Computer Science Department*  
+*Project 2, CS 341, Spring 2024, UIC CS*  
 
 - Created a multi-tier application designed to interact with public information from the Chicago Lobbyist Database. This project was developed as part of the coursework for CS 341.
 - Designed a user-friendly console-based interface that allows users to query and update lobbyist information effectively without direct SQL command interaction.
